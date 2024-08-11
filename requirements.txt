@@ -1,4 +1,4 @@
 ﻿streamlit
 requests
 pypdf
-sklearn
+scikit-learn
